@@ -1,20 +1,25 @@
-# 👋 Hi, I’m Alexis
+# Hi, I'm Alex
 
-Full-stack JavaScript engineer with 13+ years of experience, with a strong background in frontend architecture, tech leadership, and product-driven engineering.
+**Senior Software Engineer | TypeScript & JavaScript | AI Applications & Agents**
 
-I’ve built my career across consulting and in-house roles, evolving from developer to tech lead, working in demanding environments such as fintech, retail e-commerce, and industry.
+Software engineer with **13+ years of experience** building and leading modern web applications, with a strong background in **frontend architecture, technical leadership, and product-driven engineering**.
 
-I’m currently completing an Executive Education program at The University of Texas at Austin (McCombs School of Business), focused on Full Stack Software Development and scalable cloud applications.
+My core expertise is in the **TypeScript / JavaScript ecosystem**, particularly **React / Next.js and Vue.js / Nuxt**, with experience across full-stack development, cloud applications, and software architecture.
 
-🚧 This GitHub is currently under construction.  
-Very soon, you’ll find here:
-- My UT Austin capstone project  
-- Full-stack JavaScript projects  
-- Work around frontend architecture, scalable systems, and modern web engineering
+I hold a **Professional Certificate in Full Stack Software Development: Building Scalable Cloud Applications** from **The University of Texas at Austin — McCombs School of Business**, as well as the **IBM RAG and Agentic AI Professional Certificate**. Estrade Alexis_IBM_certificate.pdf
 
-In the meantime, you can find my full professional background on LinkedIn:  
-👉 https://www.linkedin.com/in/alexis-estrade
+Today, I combine my software engineering background with **AI application development**, focusing on **LLM-powered applications, RAG, AI agents, tool calling, MCP, multimodal AI, and agentic workflows**. Estrade Alexis_IBM_certificate.pdf
 
----
+## Core Stack
 
-📍 France · Open to remote
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Vue.js` · `Nuxt` · `Node.js` · `Python` · `Azure` · `Docker` · `GitHub Actions`
+
+## AI Engineering
+
+`LLM APIs` · `AI Agents` · `RAG` · `Vector Databases` · `Tool Calling` · `MCP` · `Multimodal AI` · `Agentic Workflows`
+
+## Background
+
+Throughout my career, I've worked across **software engineering, frontend architecture, technical leadership, and product delivery**, bridging the gap between **technology, product, and business needs**.
+
+My current focus is building **useful, reliable AI applications and agentic systems on top of strong software engineering foundations**.
